@@ -3,3 +3,10 @@ git status
 git log
 git add .
 git commit -m "message"
+git stash
+git stash pop
+git stash clear
+git remote add origin repoLink
+git remote -v
+git reset hash_value
+
